@@ -18,9 +18,9 @@ MariaDB SQL Database or Any other SQL Server Database of your choice
 
 PIP [Optional, to install dependencies]
 
-Install instructions
-Download gpsWeather.py and requirements.txt
-Run pip install -r requirements.txt to install dependencies
-Before running the script, change MYSQL server variables [host, user, password, database] 
-Editable Variables are Listed on the top, under imports
-To run the script, use $ python gpsWeather.py
+Install instructions:
+  - Download gpsWeather.py and requirements.txt
+  - Run pip install -r requirements.txt to install dependencies
+  - Before running the script, change MYSQL server variables [host, user, password, database] 
+  - Editable Variables are Listed on the top, under imports
+  - To run the script, use $ python gpsWeather.py
